@@ -1,6 +1,9 @@
 # Data-Driven Biped Controller
 
-Author: [Yoonsang Lee](http://mrl.snu.ac.kr/~)
+Related Author: [Yoonsang Lee](http://mrl.snu.ac.kr/~yslee)
+
+Related Publication : [Siggraph 2010](http://mrl.snu.ac.kr/research/ProjectDataDrivenBiped/index.html)
+
 
 This software is an implementation of a dynamic controller to physically simulate under-actuated three-dimensional full-body biped locomotion. The controller takes motion capture reference data to reproduce realistic human locomotion through realtime physically based simulation. Examples includes turning, spining, and walking while steering its direction interactively. 
 
